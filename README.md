@@ -42,7 +42,7 @@ different ADC chip to ensure resilience against global chip shortages). Pre-eval
 - **Affordable & Accessible**: $30 per 8 channel board, democratizing biosensing technology.
 - **Resilient Design**: Two distinct board designs utilizing AD7771 and ADS131M08 ADC chips.
 - **High Connectivity**: Powered by ESP32 for Wi-Fi, Bluetooth, and BLE communication.
-- **Customizability**: Modular add-ons for extended functionality.
+- **Customizability**: Modular add-ons for extended functionality. One of the boards (based on ADS131M08) includes built-in 6DOF IMU for motion tracking, and any other IMU can be easily added as an extension to any board.
 - **Portable**: Compact size with 3D-printed enclosures.
 
 ### Supported Applications
