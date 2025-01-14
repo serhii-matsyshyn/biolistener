@@ -41,9 +41,14 @@ different ADC chip to ensure resilience against global chip shortages). Pre-eval
 
 - **Affordable & Accessible**: $30 per 8 channel board, democratizing biosensing technology.
 - **Resilient Design**: Two distinct board designs utilizing AD7771 and ADS131M08 ADC chips.
-- **High Connectivity**: Powered by ESP32 for Wi-Fi, Bluetooth, and BLE communication.
+- **High Connectivity, Real Time Data transfer**: Powered by ESP32 for Wi-Fi, Bluetooth, and BLE communication. SD card support for offline data recording.
 - **Customizability**: Modular add-ons for extended functionality. One of the boards (based on ADS131M08) includes built-in 6DOF IMU for motion tracking, and any other IMU can be easily added as an extension to any board.
-- **Portable**: Compact size with 3D-printed enclosures.
+- **Portable**: Compact size with 3D-printed enclosures. Total weight of the board with battery and 3D-printed enclosure is only **54g**.
+- **Low Power Consumption**: Optimized for long battery life. 4 hours of continuous operation with a 700mAh battery at the highest sampling rate and data transfer via Wi-Fi at highest TX power. Up to 1400mAh battery can fit in the enclosure, and with use of Bluetooth or BLE (or offline data recording), the battery life can be extended to entire day.
+- **Versatile**: Supports EEG, EMG, ECG, EOG, and other biosignal capture applications.
+- **High Resolution**: 24-bit ADCs for precise signal capture.
+- **High Sampling Rate**: Up to 8 channels at 2000Hz per channel at current firmware version. Basic speed: 500Hz per channel, 8 channels.
+- **Usability**: Incorporates both hardware and software for a seamless user experience. Has a built-in battery charger, and can be charged and programmed via USB-C. Indication available as well.
 
 ### Supported Applications
 
