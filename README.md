@@ -21,8 +21,8 @@ technologies, and beyond.
 
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <img src="data/images/BioListener_boards_v1.0_prototypes_in_hand.jpg" alt="BioListener boards v1.0 prototypes in hand" style="width: 250px;">
-  <img src="data/images/BioListener_boards_v1.0_prototypes_scale.jpg" alt="BioListener boards v1.0 prototypes_scale" style="width: 250px;">
+  <img src="data/images/BioListener_boards_v1.0_prototypes_in_hand.jpg" alt="BioListener boards v1.0 prototypes in hand" style="width: 290px;">
+  <img src="data/images/BioListener_boards_v1.0_prototypes_scale.jpg" alt="BioListener boards v1.0 prototypes_scale" style="width: 290px;">
 </div>
 
 The project has already completed the initial prototyping phase, delivering two functional PCB designs (each utilizing a
