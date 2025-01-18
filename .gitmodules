@@ -1,0 +1,24 @@
+[submodule "biolistener_evaluation"]
+	path = biolistener_evaluation
+	url = https://github.com/serhii-matsyshyn/biolistener_evaluation
+	branch = master
+[submodule "biolistener_firmware"]
+	path = biolistener_firmware
+	url = https://github.com/serhii-matsyshyn/biolistener_firmware
+	branch = main
+[submodule "biolistener_hardware"]
+	path = biolistener_hardware
+	url = https://github.com/serhii-matsyshyn/biolistener_hardware
+	branch = master
+[submodule "biolistener_3d_models"]
+	path = biolistener_3d_models
+	url = https://github.com/serhii-matsyshyn/biolistener_3d_models
+	branch = master
+[submodule "biolistener_OpenBCI_GUI"]
+	path = biolistener_OpenBCI_GUI
+	url = https://github.com/serhii-matsyshyn/biolistener_OpenBCI_GUI
+	branch = biolistener
+[submodule "biolistener_brainflow"]
+	path = biolistener_brainflow
+	url = https://github.com/serhii-matsyshyn/biolistener_brainflow
+	branch = biolistener

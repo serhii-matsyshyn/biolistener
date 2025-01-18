@@ -81,7 +81,7 @@ Example of simple EEG, EMG gold cup passive electrodes setup for Alpha Brain Wav
 | **[BioListener 3D Models](https://github.com/serhii-matsyshyn/biolistener_3d_models)**             | Includes Fusion360 sources and STL files for 3D-printed models for BioListener boards, such as 3D case model, etc. | [View Repository](https://github.com/serhii-matsyshyn/biolistener_3d_models)   |
 | **[BioListener Firmware](https://github.com/serhii-matsyshyn/biolistener_firmware)**               | Firmware for the ESP32-based BioListener device.                                                                   | [View Repository](https://github.com/serhii-matsyshyn/biolistener_firmware)    |
 | **[BioListener fork of BrainFlow](https://github.com/serhii-matsyshyn/biolistener_brainflow)**     | Fork of BrainFlow with BioListener support.                                                                        | [View Repository](https://github.com/serhii-matsyshyn/biolistener_brainflow)   |
-| **[BioListener fork of OpenBCI GUI](https://github.com/serhii-matsyshyn/biolistener_openbci_gui)** | Fork of OpenBCI GUI with BioListener support.                                                                      | [View Repository](https://github.com/serhii-matsyshyn/biolistener_openbci_gui) |
+| **[BioListener fork of OpenBCI GUI](https://github.com/serhii-matsyshyn/biolistener_OpenBCI_GUI)** | Fork of OpenBCI GUI with BioListener support.                                                                      | [View Repository](https://github.com/serhii-matsyshyn/biolistener_OpenBCI_GUI) |
 
 ---
 
