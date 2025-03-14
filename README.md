@@ -95,14 +95,15 @@ Example of simple EEG, EMG gold cup passive electrodes setup for Alpha Brain Wav
 
 ---
 
-## TODOs
+## TODOs (Roadmap & Future Plans)
 
 - **Testing & Validation**
-  - [ ] Add Jupiter notebook for evaluation
-  - [ ] Create connection schematic for evaluation steps
-  - [ ] Describe evaluation process, add evaluation setup images
+  - [x] Add Jupiter notebook for evaluation
+  - [x] Create connection schematic for evaluation steps
+  - [x] Add evaluation results to README
+  - [x] Add evaluation setup images
+  - [ ] Describe evaluation process
   - [ ] Finish documenting standardized testing procedures to ensure reliability in real-world applications.
-  - [ ] Add evaluation results to README
   - [ ] Compare prototypes with high-cost solutions.
 
 - **Firmware Development**
