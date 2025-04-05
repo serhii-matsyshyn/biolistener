@@ -102,9 +102,9 @@ Example of simple EEG, EMG gold cup passive electrodes setup for Alpha Brain Wav
   - [x] Create connection schematic for evaluation steps
   - [x] Add evaluation results to README
   - [x] Add evaluation setup images
-  - [ ] Describe evaluation process
-  - [ ] Finish documenting standardized testing procedures to ensure reliability in real-world applications.
-  - [ ] Compare prototypes with high-cost solutions.
+  - [x] Describe evaluation process
+  - [x] Finish documenting standardized testing procedures to ensure reliability in real-world applications.
+  - [x] Compare prototypes with high-cost solutions.
 
 - **Firmware Development**
   - [ ] Enhance features for offline mode and unstable network handling.
@@ -115,12 +115,12 @@ Example of simple EEG, EMG gold cup passive electrodes setup for Alpha Brain Wav
 - **Hardware Development**
   - [ ] Finalize PCB designs for mass production.
   - [ ] Produce additional prototypes.
-  - [ ] Refine 3D-printed enclosures for better portability and durability.
+  - [ ] Refine 3D-printed enclosures for better portability and durability, modular add-ons support.
   - [ ] Develop modular add-ons like bio-feedback-based electrical stimulation boards.
   - [ ] Explore additional ADC chips for broader compatibility.
 
 - **Documentation**
-  - [ ] Create step-by-step guides for hardware assembly and firmware setup.
+  - [x] Create step-by-step guides for hardware assembly and firmware setup.
   - [ ] Develop tutorials and case studies for various use cases.
   - [ ] Provide troubleshooting documentation for common issues.
 
